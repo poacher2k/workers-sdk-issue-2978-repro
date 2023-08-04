@@ -1,0 +1,6 @@
+account_id = "<ACCOUNT_ID>"
+name = "repro-worker-a"
+main = "./src/index.ts"
+workers_dev = true
+compatibility_date = "2022-04-18"
+

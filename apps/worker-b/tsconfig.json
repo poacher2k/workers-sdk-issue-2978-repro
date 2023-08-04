@@ -1,0 +1,16 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"display": "Default",
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"lib": ["esnext"],
+		"types": ["@cloudflare/workers-types"],
+		"moduleResolution": "node",
+		"strict": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"baseUrl": "./",
+		"paths": {}
+	}
+}
